@@ -1,1 +1,1 @@
-web: gunicorn 'quizpro.wsgi'
+web: gunicorn quizpro.wsgi
